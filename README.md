@@ -1,2 +1,2 @@
 # hacktoberfest
-Repo for PR purposes
+Repo for PR purposes of Hacktoberfest
